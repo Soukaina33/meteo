@@ -27,5 +27,4 @@ Une simple application web en PHP qui permet d’afficher la météo actuelle de
 
 1. *Clone le projet :*
    ```bash
-   git clone https://github.com/ton-utilisateur/meteo-maroc.git
-   cd meteo-maroc
+   git clone https://github.com/Soukaina33/meteo
